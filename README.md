@@ -13,7 +13,12 @@ Server运行在Myeclipse下，需要添加java包（Json和mysql）
  无需配置web.xml
 ***
 
-# 客户端
+# 客户端(C/S)
 Client运行在Android Stdio下
 ## 配置参数
  将string.xml中的ip_config参数修改为服务器的ip地址
+ 
+# 计划
+
+增加WEB端，使用PWA达到原生APP的体验（主要针对IOS）
+编译搭建在自己的服务器上
