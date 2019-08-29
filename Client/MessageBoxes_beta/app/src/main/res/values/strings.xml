@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">MessageBoxes_beta</string>
-    <string name="title_activity_login">MessageBoxes_beta</string>
-    <string name="ip_config">http://172.20.10.5:8080</string>
-    <string name="title_activity_main_test">MainActivity_test</string>
-</resources>
